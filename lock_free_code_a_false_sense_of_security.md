@@ -1,5 +1,7 @@
 # Lock-Free Code: A False Sense of Security
 
+By Herb Sutter, September 08, 2008
+
 **Writing lock-free code can confound anyone—even expert programmers, as Herb shows this month.**
 
 ---
